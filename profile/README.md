@@ -21,4 +21,4 @@ cepat dan akurat menggunakan teknologi deep learning.
 - [Full-Stack-Tomato-LeafGuard](https://github.com/Tomato-LeafGuard/Full-Stack-Tomato-LeafGuard)
 - [Machine-Learning-Tomato-LeafGuard](https://github.com/Tomato-LeafGuard/Machine-Learning-Tomato-LeafGuard)
 - [Analisis-Data-Tomato-LeafGuard](https://github.com/Tomato-LeafGuard/Analisis-Data-Tomato-LeafGuard)
-- [Tomato leaf Guard Project](https://github.com/Tomato-LeafGuard/Tomato-LeafGuard)
+- [Tomato leaf Guard Project](https://github.com/Tomato-LeafGuard/Tomato-LeafGuard-DBS)
