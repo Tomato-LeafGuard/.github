@@ -1,4 +1,4 @@
-# 🌿 Tomato-LeafGuard — Lindungi · Deteksi · Rawat
+# 🌿 Tomato-LeafGuard  Lindungi · Deteksi · Rawat
 
 Tomato-LeafGuard adalah platform deteksi penyakit daun tomat berbasis AI 
 yang membantu petani mengidentifikasi dan menangani penyakit tanaman secara 
